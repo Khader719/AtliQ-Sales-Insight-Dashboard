@@ -44,7 +44,7 @@ and success criteria  of our project.
 #### Updated Dashboard
 
 ---
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Final_report.png" width="550" class="center">
+<img src="https://github.com/Khader719/AtliQ-Sales-Insight-Dashboard/blob/main/DATASET/Final_report.png" width="550" class="center">
 
 #### Interactive dashboard
 
